@@ -4,7 +4,7 @@ set_time_limit(0);
 
 header("Content-type: text/html; chardet=utf-8");
 
-require '../../SimpleSmartsheet.php';
+require '../../src/SimpleSmartsheet.php';
 
 $SheetID = "";
 $APIKey = "";

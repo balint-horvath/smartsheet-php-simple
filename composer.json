@@ -1,0 +1,13 @@
+{
+    "name": "balint-horvath/smartsheet-php-simple",
+    "description": "SimpleSmartsheet",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Bálint Horváth",
+            "email": "balint@balint.business"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
