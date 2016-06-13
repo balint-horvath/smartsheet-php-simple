@@ -22,7 +22,7 @@ genHTMLDoc(SheetID, HeadingCol=0, DescriptionCol=1, HeadingDepth=1)
 * SheetID - ID of your Sheet
 * HeadingCol - Column ID of headings
 * DescriptionCol - Column ID of descriptions
-* HeadingDepth - Start depth of heading (<h{HeadingDepth}>)
+* HeadingDepth - Start depth of heading's numbering
 
 ### Example
 ```php
