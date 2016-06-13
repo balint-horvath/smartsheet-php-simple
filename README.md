@@ -9,7 +9,7 @@ require 'SimpleSmartsheet.php';
 $SS = new SimpleSmartsheet($APIKey);
 ```
 
-Set proper write permissions to ./cache/ directory.
+**Set proper write permissions to ./cache/ directory.**
 
 ## Generating HTML Documentation from a sheet
 
