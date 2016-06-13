@@ -2,6 +2,8 @@
 SimpleSmartsheet is able to create HTML Documentation from Smartsheet.
 Works fine with Smartsheet API v2.0.
 
+[[hhttps://raw.githubusercontent.com/balint-horvath/smartsheet-php-simple/master/examples/genHTMLDoc/img/smartsheet-html.png|alt=Smartsheet to HTML]]
+
 ## Initialization
 
 ```php
